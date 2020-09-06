@@ -1,24 +1,35 @@
-# README
+# My first rails app
+> This is a Microverse, Technical curriculum, Ruby on Rails test.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> See the test version Live here - > [https://enigmatic-wave-29070.herokuapp.com/cars]
+## Built With
 
-Things you may want to cover:
+- Ruby on Rails
+- Heroku
+- VScode
 
-* Ruby version
+## Project Structure
 
-* System dependencies
+## Author
 
-* Configuration
+👤 **Bereket Beshane**
 
-* Database creation
+- Github: [@berabjesus](https://github.com/Berabjesus)
+- Twitter: [@bereket_ababu_b](https://twitter.com/bereket_ababu_b)
+- Linkedin: [linkedin](https://www.linkedin.com/in/bereket-beshane-a1b75a1a9/)
 
-* Database initialization
+## 🤝 Contributing
 
-* How to run the test suite
+Contributions, issues and feature requests are welcome!
 
-* Services (job queues, cache servers, search engines, etc.)
+## Show your support
 
-* Deployment instructions
+Give a ⭐️ if you like this project!
 
-* ...
+## Acknowledgments
+
+- Microverse
+- Heroku
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
