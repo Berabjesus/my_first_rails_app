@@ -1,7 +1,7 @@
 # My first rails app
 > This is a Microverse, Technical curriculum, Ruby on Rails test.
 
-> See the test version Live here - > [https://enigmatic-wave-29070.herokuapp.com/cars]
+> See the test version Live here - > [Live Link](https://enigmatic-wave-29070.herokuapp.com/cars)
 ## Built With
 
 - Ruby on Rails
