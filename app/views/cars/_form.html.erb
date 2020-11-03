@@ -11,22 +11,22 @@
     </div>
   <% end %>
 
-  <div class="field">
-    <%= form.label :make %>
-    <%= form.text_field :make %>
+  <div class="field form-group row justify-content-center">
+    <%= form.label :make, class: 'mr-4' %>
+    <%= form.text_field :make, class: 'form-control w-25' %>
   </div>
 
-  <div class="field">
-    <%= form.label :model %>
-    <%= form.text_field :model %>
+  <div class="field  form-group row justify-content-center">
+    <%= form.label :model, class: 'mr-4' %>
+    <%= form.text_field :model, class: 'form-control w-25' %>
   </div>
 
-  <div class="field">
-    <%= form.label :year %>
-    <%= form.number_field :year %>
+  <div class="field  form-group row justify-content-center">
+    <%= form.label :year, class: 'mr-4' %>
+    <%= form.number_field :year, class: 'form-control w-25' %>
   </div>
 
-  <div class="actions">
+  <div class="actions  form-group row justify-content-center">
     <%= form.submit %>
   </div>
 <% end %>
